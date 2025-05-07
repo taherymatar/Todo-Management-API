@@ -1,0 +1,22 @@
+﻿@model TodoViewModel
+
+<h2>Todo Details</h2>
+<div>
+    <h4>@Model.Title</h4>
+    <p>@Model.Description</p>
+    <p>Status: @Model.Status</p>
+    <p>Priority: @Model.Priority</p>
+    <p>Created: @Model.CreatedDate</p>
+    <p>Last Modified: @Model.LastModifiedDate</p>
+    <p>Due Date: @Model.DueDate</p>
+</div>
+
+@if (Model.Status != "Completed") 
+{
+    <form asp-action="MarkAsComplete" asp-route-id="@Model.Id" method="post">
+        <button type="submit">Mark as Complete</button>
+    </form>
+} else
+{
+    <button disabled>Completed</button>
+}

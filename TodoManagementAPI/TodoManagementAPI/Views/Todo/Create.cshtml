@@ -1,0 +1,44 @@
+﻿@model CreateTodoDto
+
+<div class="card">
+    <div class="card-header">
+        <h2 class="fw-bold">Create Todo</h2>
+    </div>
+    <div class="card-body">
+        <form asp-action="Create" method="post">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Title">Title</label>
+                        <input asp-for="Title" type="text" id="Title" placeholder="Task 1" required />
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Description">Description</label>
+                        <textarea asp-for="Description"></textarea>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <label asp-for="Priority">Priority</label>
+                    <select asp-for="Priority">
+                        <option value="">-- Select Priority --</option>
+                        <option value="@TodoPriority.Low">Low</option>
+                        <option value="@TodoPriority.Medium">Medium</option>
+                        <option value="@TodoPriority.High">High</option>
+                    </select>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="DueDate">Due Date</label>
+                        <input asp-for="DueDate" type="date" />
+                    </div>
+                </div>
+            </div>
+
+            <button type="submit">Create</button>
+        </form>
+    </div>
+</div>

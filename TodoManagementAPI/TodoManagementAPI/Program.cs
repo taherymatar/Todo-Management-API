@@ -1,6 +1,17 @@
+using Microsoft.EntityFrameworkCore;
+using TodoManagementAPI.Data;
+using TodoManagementAPI.Infrastructure.AutoMapper;
+using TodoManagementAPI.Infrastructure.Services.TodoService;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDbContext<TodoManagementDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddAutoMapper(typeof(MapperProfile));
+builder.Services.AddScoped<ITodoService, TodoService>();
+
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();

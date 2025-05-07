@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Projects Freelancer\\GTS Task\\TodoManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40A6971A-8C45-4017-9A13-253F0331A943}|TodoManagementAPI\\TodoManagementAPI.csproj|g:\\projects freelancer\\gts task\\todomanagementapi\\todomanagementapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A6971A-8C45-4017-9A13-253F0331A943}|TodoManagementAPI\\TodoManagementAPI.csproj|solutionrelative:todomanagementapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D89AA27-8D46-4BEC-9896-85C944860449}|TodoManagementAPI.Infrastructure\\TodoManagementAPI.Infrastructure.csproj|g:\\projects freelancer\\gts task\\todomanagementapi\\todomanagementapi.infrastructure\\services\\todoservice\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D89AA27-8D46-4BEC-9896-85C944860449}|TodoManagementAPI.Infrastructure\\TodoManagementAPI.Infrastructure.csproj|solutionrelative:todomanagementapi.infrastructure\\services\\todoservice\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D89AA27-8D46-4BEC-9896-85C944860449}|TodoManagementAPI.Infrastructure\\TodoManagementAPI.Infrastructure.csproj|g:\\projects freelancer\\gts task\\todomanagementapi\\todomanagementapi.infrastructure\\services\\todoservice\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D89AA27-8D46-4BEC-9896-85C944860449}|TodoManagementAPI.Infrastructure\\TodoManagementAPI.Infrastructure.csproj|solutionrelative:todomanagementapi.infrastructure\\services\\todoservice\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A6971A-8C45-4017-9A13-253F0331A943}|TodoManagementAPI\\TodoManagementAPI.csproj|g:\\projects freelancer\\gts task\\todomanagementapi\\todomanagementapi\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40A6971A-8C45-4017-9A13-253F0331A943}|TodoManagementAPI\\TodoManagementAPI.csproj|solutionrelative:todomanagementapi\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A6971A-8C45-4017-9A13-253F0331A943}|TodoManagementAPI\\TodoManagementAPI.csproj|g:\\projects freelancer\\gts task\\todomanagementapi\\todomanagementapi\\views\\todo\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40A6971A-8C45-4017-9A13-253F0331A943}|TodoManagementAPI\\TodoManagementAPI.csproj|solutionrelative:todomanagementapi\\views\\todo\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A6971A-8C45-4017-9A13-253F0331A943}|TodoManagementAPI\\TodoManagementAPI.csproj|g:\\projects freelancer\\gts task\\todomanagementapi\\todomanagementapi\\views\\todo\\tododetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40A6971A-8C45-4017-9A13-253F0331A943}|TodoManagementAPI\\TodoManagementAPI.csproj|solutionrelative:todomanagementapi\\views\\todo\\tododetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A6971A-8C45-4017-9A13-253F0331A943}|TodoManagementAPI\\TodoManagementAPI.csproj|g:\\projects freelancer\\gts task\\todomanagementapi\\todomanagementapi\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40A6971A-8C45-4017-9A13-253F0331A943}|TodoManagementAPI\\TodoManagementAPI.csproj|solutionrelative:todomanagementapi\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABF0455-36B2-4AB6-88CB-F7A71AFEED77}|TodoManagementAPI.Core\\TodoManagementAPI.Core.csproj|g:\\projects freelancer\\gts task\\todomanagementapi\\todomanagementapi.core\\enums\\todostatus .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABF0455-36B2-4AB6-88CB-F7A71AFEED77}|TodoManagementAPI.Core\\TodoManagementAPI.Core.csproj|solutionrelative:todomanagementapi.core\\enums\\todostatus .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A6971A-8C45-4017-9A13-253F0331A943}|TodoManagementAPI\\TodoManagementAPI.csproj|g:\\projects freelancer\\gts task\\todomanagementapi\\todomanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A6971A-8C45-4017-9A13-253F0331A943}|TodoManagementAPI\\TodoManagementAPI.csproj|solutionrelative:todomanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 267,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\Projects Freelancer\\GTS Task\\TodoManagementAPI\\TodoManagementAPI\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoManagementAPI\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "G:\\Projects Freelancer\\GTS Task\\TodoManagementAPI\\TodoManagementAPI\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "TodoManagementAPI\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T11:55:28.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "G:\\Projects Freelancer\\GTS Task\\TodoManagementAPI\\TodoManagementAPI\\Views\\Todo\\Create.cshtml",
+              "RelativeDocumentMoniker": "TodoManagementAPI\\Views\\Todo\\Create.cshtml",
+              "ToolTip": "G:\\Projects Freelancer\\GTS Task\\TodoManagementAPI\\TodoManagementAPI\\Views\\Todo\\Create.cshtml",
+              "RelativeToolTip": "TodoManagementAPI\\Views\\Todo\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T11:55:11.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "G:\\Projects Freelancer\\GTS Task\\TodoManagementAPI\\TodoManagementAPI\\Views\\Todo\\Update.cshtml",
+              "RelativeDocumentMoniker": "TodoManagementAPI\\Views\\Todo\\Update.cshtml",
+              "ToolTip": "G:\\Projects Freelancer\\GTS Task\\TodoManagementAPI\\TodoManagementAPI\\Views\\Todo\\Update.cshtml",
+              "RelativeToolTip": "TodoManagementAPI\\Views\\Todo\\Update.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T11:40:37.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Projects Freelancer\\GTS Task\\TodoManagementAPI\\TodoManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TodoManagementAPI\\Program.cs",
+              "ToolTip": "G:\\Projects Freelancer\\GTS Task\\TodoManagementAPI\\TodoManagementAPI\\Program.cs",
+              "RelativeToolTip": "TodoManagementAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:59:35.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "G:\\Projects Freelancer\\GTS Task\\TodoManagementAPI\\TodoManagementAPI\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoManagementAPI\\Controllers\\TodoController.cs",
+              "ToolTip": "G:\\Projects Freelancer\\GTS Task\\TodoManagementAPI\\TodoManagementAPI\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoManagementAPI\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAswEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:59:22.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITodoService.cs",
+              "DocumentMoniker": "G:\\Projects Freelancer\\GTS Task\\TodoManagementAPI\\TodoManagementAPI.Infrastructure\\Services\\TodoService\\ITodoService.cs",
+              "RelativeDocumentMoniker": "TodoManagementAPI.Infrastructure\\Services\\TodoService\\ITodoService.cs",
+              "ToolTip": "G:\\Projects Freelancer\\GTS Task\\TodoManagementAPI\\TodoManagementAPI.Infrastructure\\Services\\TodoService\\ITodoService.cs",
+              "RelativeToolTip": "TodoManagementAPI.Infrastructure\\Services\\TodoService\\ITodoService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:40:03.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "G:\\Projects Freelancer\\GTS Task\\TodoManagementAPI\\TodoManagementAPI.Infrastructure\\Services\\TodoService\\TodoService.cs",
+              "RelativeDocumentMoniker": "TodoManagementAPI.Infrastructure\\Services\\TodoService\\TodoService.cs",
+              "ToolTip": "G:\\Projects Freelancer\\GTS Task\\TodoManagementAPI\\TodoManagementAPI.Infrastructure\\Services\\TodoService\\TodoService.cs",
+              "RelativeToolTip": "TodoManagementAPI.Infrastructure\\Services\\TodoService\\TodoService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:11:52.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoDetails.cshtml",
+              "DocumentMoniker": "G:\\Projects Freelancer\\GTS Task\\TodoManagementAPI\\TodoManagementAPI\\Views\\Todo\\TodoDetails.cshtml",
+              "RelativeDocumentMoniker": "TodoManagementAPI\\Views\\Todo\\TodoDetails.cshtml",
+              "ToolTip": "G:\\Projects Freelancer\\GTS Task\\TodoManagementAPI\\TodoManagementAPI\\Views\\Todo\\TodoDetails.cshtml",
+              "RelativeToolTip": "TodoManagementAPI\\Views\\Todo\\TodoDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T11:55:23.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoStatus .cs",
+              "DocumentMoniker": "G:\\Projects Freelancer\\GTS Task\\TodoManagementAPI\\TodoManagementAPI.Core\\Enums\\TodoStatus .cs",
+              "RelativeDocumentMoniker": "TodoManagementAPI.Core\\Enums\\TodoStatus .cs",
+              "ToolTip": "G:\\Projects Freelancer\\GTS Task\\TodoManagementAPI\\TodoManagementAPI.Core\\Enums\\TodoStatus .cs",
+              "RelativeToolTip": "TodoManagementAPI.Core\\Enums\\TodoStatus .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:57:34.735Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

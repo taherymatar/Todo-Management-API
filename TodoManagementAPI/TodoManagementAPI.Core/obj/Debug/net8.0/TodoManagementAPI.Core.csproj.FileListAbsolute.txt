@@ -1,0 +1,12 @@
+G:\Projects Freelancer\GTS Task\TodoManagementAPI\TodoManagementAPI.Core\bin\Debug\net8.0\TodoManagementAPI.Core.deps.json
+G:\Projects Freelancer\GTS Task\TodoManagementAPI\TodoManagementAPI.Core\bin\Debug\net8.0\TodoManagementAPI.Core.dll
+G:\Projects Freelancer\GTS Task\TodoManagementAPI\TodoManagementAPI.Core\bin\Debug\net8.0\TodoManagementAPI.Core.pdb
+G:\Projects Freelancer\GTS Task\TodoManagementAPI\TodoManagementAPI.Core\obj\Debug\net8.0\TodoManagementAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects Freelancer\GTS Task\TodoManagementAPI\TodoManagementAPI.Core\obj\Debug\net8.0\TodoManagementAPI.Core.AssemblyInfoInputs.cache
+G:\Projects Freelancer\GTS Task\TodoManagementAPI\TodoManagementAPI.Core\obj\Debug\net8.0\TodoManagementAPI.Core.AssemblyInfo.cs
+G:\Projects Freelancer\GTS Task\TodoManagementAPI\TodoManagementAPI.Core\obj\Debug\net8.0\TodoManagementAPI.Core.csproj.CoreCompileInputs.cache
+G:\Projects Freelancer\GTS Task\TodoManagementAPI\TodoManagementAPI.Core\obj\Debug\net8.0\TodoManagementAPI.Core.sourcelink.json
+G:\Projects Freelancer\GTS Task\TodoManagementAPI\TodoManagementAPI.Core\obj\Debug\net8.0\TodoManagementAPI.Core.dll
+G:\Projects Freelancer\GTS Task\TodoManagementAPI\TodoManagementAPI.Core\obj\Debug\net8.0\refint\TodoManagementAPI.Core.dll
+G:\Projects Freelancer\GTS Task\TodoManagementAPI\TodoManagementAPI.Core\obj\Debug\net8.0\TodoManagementAPI.Core.pdb
+G:\Projects Freelancer\GTS Task\TodoManagementAPI\TodoManagementAPI.Core\obj\Debug\net8.0\ref\TodoManagementAPI.Core.dll
